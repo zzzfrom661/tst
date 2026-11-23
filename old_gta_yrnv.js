@@ -1,5 +1,5 @@
 (function () {
-    var NOTIFICATIONS_LIST = ["ScriptLoader/v2/by/epilepsia", "Смена формы и цветов минимапы \"/radar\"", "Смена размера логотипа сервера \"/logo\"", "Старая карточка бизнесов, имущества"];
+    var NOTIFICATIONS_LIST = ["ScriptLoader/v2/by/psibleydov", "Смена формы и цветов минимапы \"/radar\"", "Смена размера логотипа сервера \"/logo\"", "Старая карточка бизнесов, имущества"];
     var DURATION_MS = 3500;
     var BASE_BOTTOM_VH = 2.5;
     var STEP_VH = 6.5;
